@@ -20,7 +20,7 @@ Toca do Algoritmo é um projeto com o objetivo de apresentar implementações de
 
 1. crie a sua branch: (com o upgrade no final para indicar que é uma melhoria)
 `git checkout -b nome-da-sua-branch-upgrade`
-2. proucure dentro das pastas o arquivo do algoritmo que você quer melhorar e edite o arquivo.
+2. procure dentro das pastas o arquivo do algoritmo que você quer melhorar e edite o arquivo.
 3. após terminar crie o Pull Request
 4. solicite o code review para a comunidade
 

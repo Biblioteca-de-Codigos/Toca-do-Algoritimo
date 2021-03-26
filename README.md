@@ -6,7 +6,7 @@ Toca do Algoritmo é um projeto com o objetivo de apresentar implementações de
 # Como contribuir
 
 ### Clone o repositório.
-``` git clone https://github.com/Biblioteca-de-Codigos/Implementacoes-Diversificadas.git```
+``` git clone https://github.com/Biblioteca-de-Codigos/Toca-do-Algoritimo.git```
 
 ### Deseja incluir uma implementação nova ?
 1. crie a sua branch:
